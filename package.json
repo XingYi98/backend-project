@@ -6,10 +6,19 @@
   "scripts": {
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XingYi98/backend-project.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XingYi98/backend-project/issues"
+  },
+  "homepage": "https://github.com/XingYi98/backend-project#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "exxpress": "^1.0.0"
   }
 }
